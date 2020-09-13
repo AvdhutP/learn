@@ -1,4 +1,4 @@
-package com.designpatterns;
+package com.designpatterns.singleton;
 
 public class SingletonDesign {
     /* there are many ways to create singleton pattern
