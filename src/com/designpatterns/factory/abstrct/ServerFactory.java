@@ -3,7 +3,7 @@ package com.designpatterns.factory.abstrct;
 import com.designpatterns.factory.Computer;
 import com.designpatterns.factory.Server;
 
-public class ServerFactory implements ComputerFactory{
+public class ServerFactory implements ComputerAbstractFactory{
     private String ram;
     private String hdd;
     private String cpu;
