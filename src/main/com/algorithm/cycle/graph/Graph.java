@@ -1,9 +1,7 @@
 package com.algorithm.cycle.graph;
 
 // Java Program for union-find algorithm to detect cycle in a graph
-import java.util.*;
 import java.lang.*;
-import java.io.*;
 
 class Graph
 {
